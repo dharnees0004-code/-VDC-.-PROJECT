@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="ID CARD .svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.45344416"
+     inkscape:cx="395.8591"
+     inkscape:cy="623.00945"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <symbol
+       id="firestation"
+       viewBox="0 0 338.31653 553.83203">
+      <title
+         id="title4">Fire station</title>
+      <path
+         d="m 152.01603,0 c -37.22584,151.15831 30.73892,149.83168 68.4375,238.67188 C 246.89612,101.68359 167.79098,132.50454 152.01603,0 Z M 114.63321,99.494148 C 91.205297,185.32102 123.79758,226.47356 121.53556,289.28126 88.730667,231.20307 56.202397,179.7808 24.916417,158.15626 c 25.79108,51.97809 -7.86136,114.40046 -19.41016,164.98046 -16.4627,72.10121 5.8324,120.34358 42.41406,140.97657 -0.55356,-35.13325 10.9929,-66.18415 17.83008,-73.61328 9.01264,63.48876 19.33359,102.39652 69.587893,140.32617 5.06853,-79.96596 30.20227,-59.26818 39.10742,-158.73047 36.67983,60.57819 29.55919,121.15815 11.50196,181.73633 32.30895,-28.8767 68.07701,-52.68648 112.7207,-181.73633 l -9.20117,96.61914 C 317.90054,399.18051 399.02845,330.12416 256.68595,135.72657 270.82122,248.47951 241.85478,263.42495 227.93009,308.83399 195.19301,212.25401 130.7087,205.67293 114.63321,99.494148 Z"
+         id="path4" />
+    </symbol>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="mix-blend-mode:multiply;fill:#00ff88;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="rect1"
+       width="104.44598"
+       height="164.54617"
+       x="58.933201"
+       y="63.01767" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-family:'Bodoni MT';-inkscape-font-specification:'Bodoni MT';text-align:center;text-anchor:middle;fill:#000d06;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       x="114.13683"
+       y="88.108055"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:14px;text-align:center;text-anchor:middle;fill:#000d06;fill-opacity:1;stroke-width:0"
+         x="114.13683"
+         y="88.108055">SNS College of </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:14px;text-align:center;text-anchor:middle;fill:#000d06;fill-opacity:1;stroke-width:0"
+         x="115.85265"
+         y="105.60806"
+         id="tspan2">Technology </tspan></text>
+    <ellipse
+       style="fill:#005f2c;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       id="path2"
+       cx="114.07368"
+       cy="142.66502"
+       rx="18.380156"
+       ry="19.547152" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-family:'Bodoni MT';-inkscape-font-specification:'Bodoni MT';text-align:center;text-anchor:middle;fill:#005f2c;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       x="113.78192"
+       y="187.88605"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-size:12px;stroke-width:0"
+         x="113.78192"
+         y="187.88605">NIRMAL.M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.3057px;font-family:'Bodoni MT';-inkscape-font-specification:'Bodoni MT';text-align:center;text-anchor:middle;fill:#005f2c;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       x="110.95694"
+       y="207.63181"
+       id="text4"
+       transform="scale(1.0254765,0.97515639)"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="stroke-width:0"
+         x="110.95694"
+         y="207.63181">713525CD035</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-family:'Bodoni MT';-inkscape-font-specification:'Bodoni MT';text-align:center;text-anchor:middle;fill:#005f2c;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:fill markers stroke"
+       x="112.03143"
+       y="213.55992"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-size:10px;stroke-width:0"
+         x="112.03143"
+         y="213.55992">2025-2029</tspan></text>
+    <use
+       xlink:href="#firestation"
+       width="338.31653"
+       height="553.83203"
+       style="fill:#000000;stroke:none"
+       id="use1"
+       transform="matrix(0.0972867,0,0,0.06440632,97.033328,123.95464)" />
+  </g>
+</svg>
